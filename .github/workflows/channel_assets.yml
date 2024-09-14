@@ -18,7 +18,6 @@ jobs:
       - name: Execute PHP script
         run: |
           php modules/channels_assets.php
-          git pull
           git config --global user.email "KoshulaDora@gmail.com"
           git config --global user.name "KoshulaDora"
           git config credential.helper store
