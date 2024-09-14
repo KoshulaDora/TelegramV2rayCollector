@@ -20,8 +20,9 @@ jobs:
       - name: Execute PHP script
         run: |
           php collect.php
-          git config --global user.email "yebekhe@gmail.com"
-          git config --global user.name "yebekhe"
+          git pull
+          git config --global user.email "KoshulaDora@gmail.com"
+          git config --global user.name "KoshulaDora"
           git config credential.helper store
           git add -A
           git commit -m "🚀 Servers Updated - $(TZ='Asia/Tehran' date '+%Y-%m-%d %H:%M:%S')"
