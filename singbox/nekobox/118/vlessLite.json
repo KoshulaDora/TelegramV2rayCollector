@@ -267,8 +267,7 @@
                 "رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | IR🇮🇷 | 0️⃣3️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣3️⃣",
@@ -468,8 +467,7 @@
                 "رایگان | VLESS | @free1_vpn | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | IR🇮🇷 | 0️⃣3️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣3️⃣",
@@ -2566,7 +2564,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "94b50dec-4505-45f3-b1e1-2945d252fec9",
+            "uuid": "b114fade-c882-4be0-aa65-77d2ba5e4c5a",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2598,7 +2596,7 @@
             "type": "vless",
             "server": "iranserver.com",
             "server_port": 80,
-            "uuid": "2a245a20-1f31-4cf6-bc26-8f0929c9a64f",
+            "uuid": "94b50dec-4505-45f3-b1e1-2945d252fec9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2621,7 +2619,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "2a245a20-1f31-4cf6-bc26-8f0929c9a64f",
+            "uuid": "94b50dec-4505-45f3-b1e1-2945d252fec9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2653,7 +2651,7 @@
             "type": "vless",
             "server": "iranserver.com",
             "server_port": 80,
-            "uuid": "c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9",
+            "uuid": "2a245a20-1f31-4cf6-bc26-8f0929c9a64f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2676,7 +2674,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9",
+            "uuid": "2a245a20-1f31-4cf6-bc26-8f0929c9a64f",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2708,7 +2706,7 @@
             "type": "vless",
             "server": "iranserver.com",
             "server_port": 80,
-            "uuid": "7f64b6ea-a0ee-477f-8322-bc4d73c324b9",
+            "uuid": "c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -2731,7 +2729,7 @@
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
-            "uuid": "7f64b6ea-a0ee-477f-8322-bc4d73c324b9",
+            "uuid": "c77fea1b-8ddd-48bb-bb97-0ec6f9f736c9",
             "flow": "",
             "packet_encoding": "xudp",
             "multiplex": {
@@ -4600,21 +4598,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | IR🇮🇷 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "81.12.27.85",
-            "server_port": 22419,
-            "uuid": "89534625-0a84-44d6-da42-d516f8f2fcfe",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "104.16.19.217",
             "server_port": 443,
