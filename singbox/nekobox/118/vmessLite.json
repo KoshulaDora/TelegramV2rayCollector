@@ -110,65 +110,65 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @mftizi | RELAY🚩 | 0️⃣1️⃣",
                 "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VMESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣6️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣7️⃣",
+                "رایگان | VMESS | @vmess_vless_v2rayng | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | PL🇵🇱 | 0️⃣2️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣4️⃣"
+                "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣4️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @mftizi | RELAY🚩 | 0️⃣1️⃣",
                 "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣7️⃣",
-                "رایگان | VMESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣6️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣7️⃣",
+                "رایگان | VMESS | @vmess_vless_v2rayng | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣4️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | PL🇵🇱 | 0️⃣2️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣3️⃣",
-                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣4️⃣"
+                "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣2️⃣",
+                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣3️⃣",
+                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣4️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @mftizi | RELAY🚩 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "104.26.0.56",
             "server_port": 2086,
@@ -220,7 +220,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "104.21.15.212",
             "server_port": 443,
@@ -256,7 +256,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "172.67.156.210",
             "server_port": 443,
@@ -292,7 +292,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "185.146.173.59",
             "server_port": 80,
@@ -318,7 +318,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "188.114.97.7",
             "server_port": 443,
@@ -354,7 +354,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
             "type": "vmess",
             "server": "188.114.96.5",
             "server_port": 443,
@@ -390,7 +390,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣6️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣6️⃣",
             "type": "vmess",
             "server": "172.67.170.11",
             "server_port": 443,
@@ -426,7 +426,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣7️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣7️⃣",
             "type": "vmess",
             "server": "188.114.97.8",
             "server_port": 443,
@@ -462,7 +462,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @vmess_vless_v2rayng | CA🇨🇦 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "104.21.82.17",
             "server_port": 443,
@@ -498,7 +498,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "2a01:4f8:1c1b:222a::1",
             "server_port": 80,
@@ -515,7 +515,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "[2606:4700:3037::ac43:831a]",
             "server_port": 443,
@@ -551,7 +551,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "[2a12:5940:b856::2]",
             "server_port": 80,
@@ -568,7 +568,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "89.22.238.133",
             "server_port": 80,
@@ -689,7 +689,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
+            "tag": "رایگان | VMESS | @yaney_01 | CA🇨🇦 | 0️⃣5️⃣",
             "type": "vmess",
             "server": "172.67.116.48",
             "server_port": 80,
@@ -715,7 +715,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "104.21.83.208",
             "server_port": 443,
@@ -751,7 +751,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | PL🇵🇱 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "85.194.246.115",
             "server_port": 5857,
@@ -775,7 +775,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "162.159.140.66",
             "server_port": 2086,
@@ -801,7 +801,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "162.159.140.91",
             "server_port": 2086,
