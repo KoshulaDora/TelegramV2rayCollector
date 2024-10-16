@@ -119,7 +119,7 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VPNCUSTOMIZE | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣2️⃣",
@@ -212,7 +212,8 @@
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | FI🇫🇮 | 0️⃣6️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣3️⃣",
@@ -318,7 +319,7 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
+                "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
                 "رایگان | VLESS | @VPNCUSTOMIZE | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣2️⃣",
@@ -411,7 +412,8 @@
                 "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣4️⃣",
                 "رایگان | VLESS | @ShadowProxy66 | NL🇳🇱 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣6️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | FI🇫🇮 | 0️⃣6️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣7️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣3️⃣",
@@ -706,7 +708,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2083,
@@ -3156,7 +3158,21 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | FI🇫🇮 | 0️⃣6️⃣",
+            "type": "vless",
+            "server": "185.156.108.40",
+            "server_port": 13784,
+            "uuid": "2d722623-3740-4f73-9357-01ad1a25ce27",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣7️⃣",
             "type": "vless",
             "server": "91.107.151.209",
             "server_port": 58298,
