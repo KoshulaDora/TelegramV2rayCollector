@@ -105,38 +105,38 @@
             "type": "selector",
             "outbounds": [
                 "URL-TEST | رایگان",
-                "رایگان | VMESS | @mftizi | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VMESS | @customv2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @customv2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VMESS | @V2rayng_Fast | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @customv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VMESS | @V2rayng_Fast | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣4️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @Parsashonam | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣3️⃣",
@@ -147,240 +147,240 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | VLESS | @VlessConfig | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @Watashi_VPN | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @Watashi_VPN | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @azadi_az_inja_migzare | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣4️⃣",
-                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=dl2.wwwiransell.ir.саетcанту.烏克爾.yркельп.wonkacapitano.buzz.&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣2️⃣",
-                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=c762f.olielielie.store.&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣3️⃣",
-                "@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.らわなさmaxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi1.v2vless.sitespeedtest.net&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | REALITY | @mehrosaboran | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @kingofilter | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | RELAY🚩 | 0️⃣5️⃣"
+                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣5️⃣",
+                "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | VLESS | @v2logy | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣5️⃣",
+                "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣4️⃣",
+                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=dl2.wwwiransell.ir.саетcанту.烏克爾.yркельп.wonkacapitano.buzz.&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣2️⃣",
+                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=c762f.olielielie.store.&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣",
+                "@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.らわなさmaxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi1.v2vless.sitespeedtest.net&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @flyv2ray | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | REALITY | @mehrosaboran | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣2️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
+                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣5️⃣"
             ]
         },
         {
             "tag": "URL-TEST | رایگان",
             "type": "urltest",
             "outbounds": [
-                "رایگان | VMESS | @mftizi | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VMESS | @customv2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @customv2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VMESS | @V2rayng_Fast | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣4️⃣",
+                "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @customv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | GB🇬🇧 | 0️⃣1️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VMESS | @V2rayng_Fast | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣4️⃣",
+                "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣1️⃣",
                 "رایگان | VLESS | @Parsashonam | US🇺🇸 | 0️⃣2️⃣",
                 "رایگان | VLESS | @Parsashonam | SE🇸🇪 | 0️⃣3️⃣",
@@ -391,209 +391,209 @@
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @XsV2ray | US🇺🇸 | 0️⃣4️⃣",
                 "رایگان | VLESS | @XsV2ray | CA🇨🇦 | 0️⃣5️⃣",
-                "رایگان | VLESS | @VlessConfig | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣1️⃣",
                 "رایگان | VLESS | @ipV2Ray | FR🇫🇷 | 0️⃣2️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣3️⃣",
                 "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @Watashi_VPN | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @Watashi_VPN | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @azadi_az_inja_migzare | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣4️⃣",
-                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=dl2.wwwiransell.ir.саетcанту.烏克爾.yркельп.wonkacapitano.buzz.&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣2️⃣",
-                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=c762f.olielielie.store.&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣3️⃣",
-                "@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.らわなさmaxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi1.v2vless.sitespeedtest.net&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | REALITY | @mehrosaboran | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
-                "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
-                "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣3️⃣",
-                "رایگان | TROJAN | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | TROJAN | @kingofilter | RELAY🚩 | 0️⃣2️⃣",
-                "رایگان | SS | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
-                "رایگان | SS | @kingofilter | RELAY🚩 | 0️⃣5️⃣"
+                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣5️⃣",
+                "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣6️⃣",
+                "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
+                "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | VLESS | @v2logy | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣4️⃣",
+                "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣5️⃣",
+                "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣4️⃣",
+                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=dl2.wwwiransell.ir.саетcанту.烏克爾.yркельп.wonkacapitano.buzz.&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣2️⃣",
+                "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=c762f.olielielie.store.&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣",
+                "@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.らわなさmaxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi1.v2vless.sitespeedtest.net&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @flyv2ray | SE🇸🇪 | 0️⃣4️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | REALITY | @mehrosaboran | DE🇩🇪 | 0️⃣3️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
+                "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣",
+                "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣2️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
+                "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣4️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣",
+                "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣",
+                "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣3️⃣",
+                "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
+                "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
+                "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
+                "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣5️⃣"
             ],
             "url": "https:\/\/www.gstatic.com\/generate_204",
             "interval": "5m",
             "tolerance": 50
         },
         {
-            "tag": "رایگان | VMESS | @mftizi | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @mftizi | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "104.26.0.56",
             "server_port": 2086,
@@ -619,7 +619,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "172.67.219.194",
             "server_port": 443,
@@ -655,7 +655,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "188.114.97.1",
             "server_port": 443,
@@ -691,7 +691,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "104.21.94.64",
             "server_port": 443,
@@ -727,7 +727,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @DeamNet_Proxy | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @DeamNet_Proxy | US🇺🇸 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "66.241.124.229",
             "server_port": 443,
@@ -763,7 +763,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @customv2ray | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "v.valkinin.org",
             "server_port": 443,
@@ -799,7 +799,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @customv2ray | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @customv2ray | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "lin0502.hwcar.sbs",
             "server_port": 443,
@@ -835,7 +835,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | GB🇬🇧 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "57.128.184.119",
             "server_port": 443,
@@ -871,7 +871,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "172.67.71.160",
             "server_port": 443,
@@ -907,7 +907,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "172.67.220.83",
             "server_port": 443,
@@ -943,7 +943,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "104.21.74.239",
             "server_port": 443,
@@ -979,7 +979,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VMESS | @ShadowProxy66 | US🇺🇸 | 0️⃣5️⃣",
             "type": "vmess",
             "server": "hms24.ivideos.sbs",
             "server_port": 443,
@@ -1015,7 +1015,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @V2rayng_Fast | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @V2rayng_Fast | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "172.67.244.191",
             "server_port": 443,
@@ -1051,7 +1051,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "2a01:4f8:1c1b:222a::1",
             "server_port": 80,
@@ -1068,7 +1068,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @proxystore11 | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @proxystore11 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "2a12:5940:b856::2",
             "server_port": 80,
@@ -1085,7 +1085,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "207c13fb-83b6-2021-766b-6c95e56a4a33.bugtik.ltd",
             "server_port": 80,
@@ -1111,7 +1111,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "7cc02ab9-3478-1733-ea94-2b45d8e115a0.bugtik.ltd",
             "server_port": 80,
@@ -1137,7 +1137,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "ef4e4860-008c-3e01-d1f8-bd56dc5b419b.oneplus.pub",
             "server_port": 80,
@@ -1163,7 +1163,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "ddd47481-0d6f-08b9-7209-b0ddc0c5fa45.oneplus.pub",
             "server_port": 80,
@@ -1189,7 +1189,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @yaney_01 | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VMESS | @yaney_01 | US🇺🇸 | 0️⃣5️⃣",
             "type": "vmess",
             "server": "172.67.116.48",
             "server_port": 80,
@@ -1215,7 +1215,33 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣1️⃣",
+            "type": "vmess",
+            "server": "23.227.38.3",
+            "server_port": 2082,
+            "uuid": "5f3f09ad-89cb-4e94-a7ad-aa8239913555",
+            "security": "auto",
+            "alter_id": 0,
+            "global_padding": false,
+            "authenticated_length": true,
+            "packet_encoding": "",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/github.com\/Alvin9999",
+                "headers": {
+                    "Host": "ip3.6929198.xyz"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "162.159.140.77",
             "server_port": 2095,
@@ -1241,7 +1267,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "38.91.107.5",
             "server_port": 443,
@@ -1277,7 +1303,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | CA🇨🇦 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "23.162.200.141",
             "server_port": 443,
@@ -1313,7 +1339,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @Hope_Net | US🇺🇸 | 0️⃣5️⃣",
             "type": "vmess",
             "server": "104.26.5.90",
             "server_port": 2095,
@@ -1339,33 +1365,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @Hope_Net | RELAY🚩 | 0️⃣5️⃣",
-            "type": "vmess",
-            "server": "172.64.99.22",
-            "server_port": 2095,
-            "uuid": "a63e9c8c-2c04-4b8e-af6a-4a02494a1f0b",
-            "security": "auto",
-            "alter_id": 0,
-            "global_padding": false,
-            "authenticated_length": true,
-            "packet_encoding": "",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/github.com\/Alvin9999",
-                "headers": {
-                    "Host": "ip2.8084726.xyz"
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "www.Kayak.com",
             "server_port": 443,
@@ -1401,7 +1401,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "www.Kayak.com",
             "server_port": 443,
@@ -1437,7 +1437,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @nofiltering2 | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "www.Kayak.com",
             "server_port": 443,
@@ -1473,7 +1473,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣1️⃣",
             "type": "vmess",
             "server": "www.Kayak.com",
             "server_port": 443,
@@ -1509,7 +1509,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣2️⃣",
             "type": "vmess",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
@@ -1545,7 +1545,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣3️⃣",
             "type": "vmess",
             "server": "www.Kayak.com",
             "server_port": 443,
@@ -1581,7 +1581,7 @@
             }
         },
         {
-            "tag": "رایگان | VMESS | @ISVvpn | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VMESS | @ISVvpn | US🇺🇸 | 0️⃣4️⃣",
             "type": "vmess",
             "server": "www.Kayak.com",
             "server_port": 443,
@@ -1845,9 +1845,9 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VlessConfig | DE🇩🇪 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @VlessConfig | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
-            "server": "3.78.128.242",
+            "server": "34.196.238.45",
             "server_port": 22222,
             "uuid": "05519058-d2ac-4f28-9e4a-2b2a1386749e",
             "flow": "",
@@ -2005,7 +2005,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "151.101.2.216",
             "server_port": 80,
@@ -2028,7 +2028,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -2060,7 +2060,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ipV2Ray | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @ipV2Ray | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -2092,7 +2092,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -2124,7 +2124,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "bwdraper.faculty.ucdavis.edu",
             "server_port": 443,
@@ -2156,7 +2156,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -2188,7 +2188,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -2220,7 +2220,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -2252,7 +2252,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "Www.speedtest.net",
             "server_port": 8080,
@@ -2266,7 +2266,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2pedia | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @V2pedia | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -2298,7 +2298,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -2330,7 +2330,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "104.18.165.38",
             "server_port": 8443,
@@ -2362,7 +2362,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "104.17.234.128",
             "server_port": 443,
@@ -2394,7 +2394,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "get-admin-upanel.poqpoq.cfd",
             "server_port": 8443,
@@ -2426,7 +2426,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -2458,7 +2458,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 8443,
@@ -2490,7 +2490,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @frev2ray | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @frev2ray | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "104.17.234.128",
             "server_port": 443,
@@ -2522,7 +2522,30 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "www.speedtest.net",
+            "server_port": 8880,
+            "uuid": "telegram-id-ArV2ray",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
+                "headers": {
+                    "Host": "www.speedtest.net.4.Q.bahrane.iR."
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2545,7 +2568,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
@@ -2577,7 +2600,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2600,7 +2623,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
@@ -2632,7 +2655,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8080,
@@ -2655,7 +2678,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @ARv2ray | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "Zmaoz.Faculty.Ucdavis.Edu",
             "server_port": 443,
@@ -2687,30 +2710,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ARv2ray | RELAY🚩 | 0️⃣7️⃣",
-            "type": "vless",
-            "server": "www.speedtest.net",
-            "server_port": 8880,
-            "uuid": "telegram-id-ArV2ray",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry,telegram-ArV2ry",
-                "headers": {
-                    "Host": "www.speedtest.net.4.O.bahrane.iR."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2724,7 +2724,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 8880,
@@ -2738,7 +2738,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @Lockey_vpn | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2752,7 +2752,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "185.146.173.82",
             "server_port": 8880,
@@ -2775,7 +2775,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣5️⃣",
             "type": "vless",
             "server": "185.146.173.67",
             "server_port": 8880,
@@ -2798,7 +2798,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Lockey_vpn | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @Lockey_vpn | SE🇸🇪 | 0️⃣6️⃣",
             "type": "vless",
             "server": "185.146.173.82",
             "server_port": 8880,
@@ -2821,7 +2821,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -2853,7 +2853,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @free_v2rayyy | SE🇸🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "185.146.173.39",
             "server_port": 8880,
@@ -2867,7 +2867,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @free_v2rayyy | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @free_v2rayyy | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -2899,7 +2899,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2922,7 +2922,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2945,7 +2945,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2968,7 +2968,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -2991,7 +2991,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -3014,7 +3014,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -3037,7 +3037,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lightning6 | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @lightning6 | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -3060,7 +3060,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM",
             "server_port": 80,
@@ -3083,7 +3083,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM",
             "server_port": 80,
@@ -3106,7 +3106,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @CUSTOMVPNSERVER | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "ALL-CUSTOMVPNSERVER.IPSTOREIRAN.COM",
             "server_port": 80,
@@ -3129,7 +3129,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
@@ -3152,7 +3152,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
@@ -3166,7 +3166,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
@@ -3189,7 +3189,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -3203,7 +3203,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -3226,7 +3226,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DigiV2ray | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @DigiV2ray | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2095,
@@ -3249,7 +3249,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "172.66.47.100",
             "server_port": 443,
@@ -3281,7 +3281,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "172.66.47.200",
             "server_port": 443,
@@ -3313,7 +3313,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "172.66.47.151",
             "server_port": 443,
@@ -3345,7 +3345,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "172.66.44.233",
             "server_port": 443,
@@ -3377,7 +3377,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "104.18.5.250",
             "server_port": 443,
@@ -3409,7 +3409,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "172.66.47.130",
             "server_port": 443,
@@ -3441,7 +3441,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxy_kafee | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @proxy_kafee | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "104.21.48.53",
             "server_port": 8443,
@@ -3473,7 +3473,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "185.146.173.237",
             "server_port": 80,
@@ -3496,7 +3496,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "185.146.173.158",
             "server_port": 80,
@@ -3519,7 +3519,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "185.146.173.237",
             "server_port": 80,
@@ -3542,7 +3542,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @v2logy | SE🇸🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "185.146.173.37",
             "server_port": 80,
@@ -3565,7 +3565,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2logy | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @v2logy | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "ArV2ray.mAshtimji.IR",
             "server_port": 443,
@@ -3595,7 +3595,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Watashi_VPN | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @Watashi_VPN | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "WwW.gOv.Se",
             "server_port": 8443,
@@ -3618,7 +3618,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Watashi_VPN | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @Watashi_VPN | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.gov.se",
             "server_port": 8443,
@@ -3641,7 +3641,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @azadi_az_inja_migzare | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @azadi_az_inja_migzare | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "162.159.138.178",
             "server_port": 8080,
@@ -3655,7 +3655,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @V2rayCollectorDonate | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @V2rayCollectorDonate | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "Join.ShhProxy.Site",
             "server_port": 443,
@@ -3687,7 +3687,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "bpb-worker-panel1-e4p.pages.dev",
             "server_port": 443,
@@ -3719,7 +3719,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "zula.ir",
             "server_port": 2096,
@@ -3751,7 +3751,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 2052,
@@ -3765,7 +3765,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @customv2ray | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @customv2ray | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -3797,7 +3797,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -3829,7 +3829,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -3861,7 +3861,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -3893,7 +3893,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -3925,7 +3925,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -3957,7 +3957,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -3989,7 +3989,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @UnlimitedDev | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @UnlimitedDev | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -4021,7 +4021,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -4053,7 +4053,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -4085,7 +4085,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -4117,7 +4117,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -4149,7 +4149,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "zmaoz.faculty.ucdavis.edu",
             "server_port": 443,
@@ -4181,7 +4181,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -4213,7 +4213,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmessorg | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @vmessorg | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -4245,7 +4245,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "104.17.148.22",
             "server_port": 2052,
@@ -4268,7 +4268,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "199.232.5.101",
             "server_port": 443,
@@ -4300,7 +4300,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "199.232.5.98",
             "server_port": 443,
@@ -4332,21 +4332,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣4️⃣",
-            "type": "vless",
-            "server": "62.60.222.104",
-            "server_port": 28162,
-            "uuid": "f1f166b8-bd43-49da-b8f7-eac656e37934",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @ShadowProxy66 | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | DE🇩🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "50.7.85.221",
             "server_port": 443,
@@ -4378,7 +4364,21 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @ShadowProxy66 | IR🇮🇷 | 0️⃣5️⃣",
+            "type": "vless",
+            "server": "62.60.222.104",
+            "server_port": 28162,
+            "uuid": "f1f166b8-bd43-49da-b8f7-eac656e37934",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣1️⃣",
             "type": "vless",
             "server": "185.146.173.58",
             "server_port": 8080,
@@ -4401,7 +4401,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @ServerNett | SE🇸🇪 | 0️⃣2️⃣",
             "type": "vless",
             "server": "185.146.173.58",
             "server_port": 8080,
@@ -4424,53 +4424,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣3️⃣",
-            "type": "vless",
-            "server": "185.146.173.58",
-            "server_port": 8080,
-            "uuid": "41a17d90-61ad-4d1d-9d09-a83729795c4e",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/servernett",
-                "headers": {
-                    "Host": "lc59.lebasnoo.ir."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @ServerNett | RELAY🚩 | 0️⃣4️⃣",
-            "type": "vless",
-            "server": "185.146.173.58",
-            "server_port": 8080,
-            "uuid": "37018107-7bc4-461c-ba6f-e8a1c9e78975",
-            "flow": "",
-            "packet_encoding": "xudp",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "transport": {
-                "type": "ws",
-                "path": "\/servernett",
-                "headers": {
-                    "Host": "lc60.lebasnoo.ir."
-                },
-                "max_early_data": 0,
-                "early_data_header_name": "Sec-WebSocket-Protocol"
-            }
-        },
-        {
-            "tag": "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -4502,7 +4456,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -4534,7 +4488,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -4566,7 +4520,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -4589,7 +4543,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -4621,7 +4575,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -4653,7 +4607,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray_swhil | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @v2ray_swhil | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -4685,7 +4639,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "discord.gg",
             "server_port": 2087,
@@ -4699,7 +4653,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "unpkg.com",
             "server_port": 8880,
@@ -4713,7 +4667,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @proxyymeliii | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @proxyymeliii | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "49.12.193.246",
             "server_port": 443,
@@ -4727,7 +4681,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.canva.com",
             "server_port": 8880,
@@ -4741,7 +4695,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @proxyymeliii | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @proxyymeliii | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -4755,7 +4709,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "104.21.90.210",
             "server_port": 8443,
@@ -4787,7 +4741,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "104.18.218.118",
             "server_port": 443,
@@ -4819,7 +4773,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "104.16.14.99",
             "server_port": 443,
@@ -4851,7 +4805,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "104.16.190.131",
             "server_port": 8443,
@@ -4883,7 +4837,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "188.114.99.91",
             "server_port": 443,
@@ -4915,7 +4869,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2ray1_ng | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @v2ray1_ng | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "151.101.3.10",
             "server_port": 80,
@@ -4938,7 +4892,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "all.vipxali.cfd",
             "server_port": 2083,
@@ -4968,7 +4922,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "all.vipxali.cfd",
             "server_port": 2083,
@@ -4998,7 +4952,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "all.vipxali.cfd",
             "server_port": 2083,
@@ -5028,7 +4982,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @MTConfig | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @MTConfig | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "all.vipxali.cfd",
             "server_port": 2083,
@@ -5058,7 +5012,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -5090,7 +5044,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -5113,7 +5067,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "172.66.47.155",
             "server_port": 443,
@@ -5145,7 +5099,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -5168,7 +5122,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -5191,7 +5145,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -5214,7 +5168,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -5246,7 +5200,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -5269,7 +5223,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -5292,7 +5246,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @VmessProtocol | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @VmessProtocol | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -5324,7 +5278,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -5356,7 +5310,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -5388,7 +5342,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
@@ -5411,7 +5365,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
@@ -5434,7 +5388,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
@@ -5457,7 +5411,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 443,
@@ -5489,7 +5443,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @DailyV2RY | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @DailyV2RY | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "hajlab.ucdavis.edu",
             "server_port": 80,
@@ -5512,7 +5466,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 8443,
@@ -5544,7 +5498,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8443,
@@ -5576,7 +5530,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "get-admin-upanel.poqpoq.cfd",
             "server_port": 8443,
@@ -5608,7 +5562,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @lrnbymaa | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @lrnbymaa | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -5640,7 +5594,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "162.159.138.178",
             "server_port": 8080,
@@ -5654,7 +5608,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "162.159.138.178",
             "server_port": 8080,
@@ -5668,7 +5622,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @fnet00 | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @fnet00 | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "162.159.138.178",
             "server_port": 8080,
@@ -5682,7 +5636,7 @@
             }
         },
         {
-            "tag": "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=dl2.wwwiransell.ir.саетcанту.烏克爾.yркельп.wonkacapitano.buzz.&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=dl2.wwwiransell.ir.саетcанту.烏克爾.yркельп.wonkacapitano.buzz.&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "104.25.122.51",
             "server_port": 80,
@@ -5696,7 +5650,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "104.17.147.22",
             "server_port": 2052,
@@ -5719,7 +5673,7 @@
             }
         },
         {
-            "tag": "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=c762f.olielielie.store.&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro?ed=2048&security=none&encryption=none&host=c762f.olielielie.store.&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "104.21.2.4",
             "server_port": 80,
@@ -5733,7 +5687,7 @@
             }
         },
         {
-            "tag": "@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.らわなさmaxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi1.v2vless.sitespeedtest.net&type=ws#رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi,@alpha_v2ray_fazayi&security=none&encryption=none&host=sm.zula.ir.g.varzeshi3.ir.fgil.hm.deba.ka.らわなさmaxsskllppae.plakrovel.melocvo.zmaxer.napovafoodka.com.fi1.v2vless.sitespeedtest.net&type=ws#رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "172.67.207.218",
             "server_port": 2052,
@@ -5747,7 +5701,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @Outlinev2rayNG | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @Outlinev2rayNG | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -5779,7 +5733,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 2082,
@@ -5793,7 +5747,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 2082,
@@ -5807,7 +5761,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 2082,
@@ -5821,7 +5775,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 2082,
@@ -5835,7 +5789,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @v2rayng_vpnrog | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @v2rayng_vpnrog | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "tgju.org",
             "server_port": 2082,
@@ -5849,7 +5803,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "lion.lionforpeople.site",
             "server_port": 443,
@@ -5877,7 +5831,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @Capital_NET | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | REALITY | @Capital_NET | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "four.felinetest.site",
             "server_port": 443,
@@ -5905,7 +5859,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -5928,7 +5882,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -5960,7 +5914,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "speedtest.net",
             "server_port": 443,
@@ -5992,7 +5946,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @flyv2ray | SE🇸🇪 | 0️⃣4️⃣",
             "type": "vless",
             "server": "185.146.173.52",
             "server_port": 8880,
@@ -6006,7 +5960,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 8880,
@@ -6029,7 +5983,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "redd.it",
             "server_port": 443,
@@ -6061,7 +6015,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @flyv2ray | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @flyv2ray | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "redd.it",
             "server_port": 443,
@@ -6093,7 +6047,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "104.17.234.114",
             "server_port": 443,
@@ -6125,7 +6079,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "live.wkrq.com",
             "server_port": 443,
@@ -6157,7 +6111,7 @@
             }
         },
         {
-            "tag": "رایگان | REALITY | @mehrosaboran | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | REALITY | @mehrosaboran | DE🇩🇪 | 0️⃣3️⃣",
             "type": "vless",
             "server": "re.iranfastfod.ir",
             "server_port": 8443,
@@ -6185,7 +6139,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "newt.ns.cloudflare.com",
             "server_port": 80,
@@ -6199,7 +6153,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "198.41.222.31",
             "server_port": 80,
@@ -6213,7 +6167,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "188.114.99.91",
             "server_port": 443,
@@ -6245,7 +6199,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @mehrosaboran | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @mehrosaboran | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 80,
@@ -6259,7 +6213,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣1️⃣",
             "type": "vless",
             "server": "NUFiLTER.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -6282,7 +6236,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣2️⃣",
             "type": "vless",
             "server": "live.skornorth.com",
             "server_port": 443,
@@ -6314,7 +6268,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "adg.news",
             "server_port": 443,
@@ -6346,7 +6300,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "NUFiLTER.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -6369,7 +6323,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "NUFiLTER.fastly80.hosting-ip.com",
             "server_port": 80,
@@ -6392,7 +6346,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "www.speedtest.net",
             "server_port": 443,
@@ -6424,7 +6378,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @nofiltering2 | RELAY🚩 | 0️⃣7️⃣",
+            "tag": "رایگان | VLESS | @nofiltering2 | US🇺🇸 | 0️⃣7️⃣",
             "type": "vless",
             "server": "104.17.234.128",
             "server_port": 443,
@@ -6456,7 +6410,30 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣1️⃣",
+            "type": "vless",
+            "server": "81.12.27.90",
+            "server_port": 39568,
+            "uuid": "9520a1fd-5ced-4a0f-a912-ffabccc52543",
+            "flow": "",
+            "packet_encoding": "xudp",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "transport": {
+                "type": "ws",
+                "path": "\/",
+                "headers": {
+                    "Host": "81.12.27.90"
+                },
+                "max_early_data": 0,
+                "early_data_header_name": "Sec-WebSocket-Protocol"
+            }
+        },
+        {
+            "tag": "رایگان | VLESS | @kingofilter | IR🇮🇷 | 0️⃣2️⃣",
             "type": "vless",
             "server": "81.12.27.93",
             "server_port": 52722,
@@ -6479,7 +6456,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣3️⃣",
             "type": "vless",
             "server": "get-admin-upanel.poqpoq.cfd",
             "server_port": 8443,
@@ -6511,7 +6488,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣4️⃣",
             "type": "vless",
             "server": "dEbngCbC.kouRdspEed.ir",
             "server_port": 8080,
@@ -6525,7 +6502,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣5️⃣",
             "type": "vless",
             "server": "172.67.160.192",
             "server_port": 8080,
@@ -6539,7 +6516,7 @@
             }
         },
         {
-            "tag": "رایگان | VLESS | @kingofilter | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | VLESS | @kingofilter | US🇺🇸 | 0️⃣6️⃣",
             "type": "vless",
             "server": "162.251.82.56",
             "server_port": 8080,
@@ -6553,7 +6530,49 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | SE🇸🇪 | 0️⃣1️⃣",
+            "type": "trojan",
+            "server": "51.21.54.216",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣2️⃣",
+            "type": "trojan",
+            "server": "63.35.59.18",
+            "server_port": 22222,
+            "password": "telegram-id-privatevpns",
+            "multiplex": {
+                "enabled": false,
+                "protocol": "smux",
+                "max_streams": 32
+            },
+            "tls": {
+                "enabled": true,
+                "server_name": "trojan.burgerip.co.uk",
+                "insecure": true,
+                "utls": {
+                    "enabled": true,
+                    "fingerprint": "chrome"
+                }
+            }
+        },
+        {
+            "tag": "رایگان | TROJAN | @PrivateVPNs | IE🇮🇪 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "52.213.245.214",
             "server_port": 22222,
@@ -6574,7 +6593,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣4️⃣",
             "type": "trojan",
             "server": "18.135.147.111",
             "server_port": 22222,
@@ -6595,7 +6614,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | GB🇬🇧 | 0️⃣5️⃣",
             "type": "trojan",
             "server": "13.43.27.70",
             "server_port": 22222,
@@ -6616,7 +6635,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣4️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣6️⃣",
             "type": "trojan",
             "server": "15.188.152.221",
             "server_port": 22222,
@@ -6637,7 +6656,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | TROJAN | @PrivateVPNs | FR🇫🇷 | 0️⃣7️⃣",
             "type": "trojan",
             "server": "15.188.46.236",
             "server_port": 22222,
@@ -6658,11 +6677,11 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣6️⃣",
+            "tag": "رایگان | TROJAN | @DirectVPN | CA🇨🇦 | 0️⃣1️⃣",
             "type": "trojan",
-            "server": "3.75.129.225",
+            "server": "15.157.239.99",
             "server_port": 22222,
-            "password": "telegram-id-privatevpns",
+            "password": "telegram-id-directvpn",
             "multiplex": {
                 "enabled": false,
                 "protocol": "smux",
@@ -6679,28 +6698,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @PrivateVPNs | RELAY🚩 | 0️⃣7️⃣",
-            "type": "trojan",
-            "server": "52.57.190.205",
-            "server_port": 22222,
-            "password": "telegram-id-privatevpns",
-            "multiplex": {
-                "enabled": false,
-                "protocol": "smux",
-                "max_streams": 32
-            },
-            "tls": {
-                "enabled": true,
-                "server_name": "trojan.burgerip.co.uk",
-                "insecure": true,
-                "utls": {
-                    "enabled": true,
-                    "fingerprint": "chrome"
-                }
-            }
-        },
-        {
-            "tag": "رایگان | TROJAN | @v2ray1_ng | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @v2ray1_ng | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "104.20.19.168",
             "server_port": 2083,
@@ -6728,7 +6726,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "104.18.12.229",
             "server_port": 2053,
@@ -6756,7 +6754,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "172.66.44.131",
             "server_port": 443,
@@ -6784,7 +6782,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @vmess_vless_v2rayng | RELAY🚩 | 0️⃣3️⃣",
+            "tag": "رایگان | TROJAN | @vmess_vless_v2rayng | US🇺🇸 | 0️⃣3️⃣",
             "type": "trojan",
             "server": "172.64.153.235",
             "server_port": 2053,
@@ -6812,7 +6810,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣1️⃣",
             "type": "trojan",
             "server": "172.67.204.84",
             "server_port": 443,
@@ -6840,7 +6838,7 @@
             }
         },
         {
-            "tag": "رایگان | TROJAN | @kingofilter | RELAY🚩 | 0️⃣2️⃣",
+            "tag": "رایگان | TROJAN | @kingofilter | US🇺🇸 | 0️⃣2️⃣",
             "type": "trojan",
             "server": "172.67.2.238",
             "server_port": 2083,
@@ -6868,7 +6866,7 @@
             }
         },
         {
-            "tag": "رایگان | SS | @kingofilter | RELAY🚩 | 0️⃣1️⃣",
+            "tag": "رایگان | SS | @kingofilter | BH🇧🇭 | 0️⃣1️⃣",
             "type": "shadowsocks",
             "server": "series-a2-me.varzesh360.co",
             "server_port": 443,
@@ -6878,7 +6876,7 @@
             "plugin_opts": ""
         },
         {
-            "tag": "رایگان | SS | @kingofilter | RELAY🚩 | 0️⃣5️⃣",
+            "tag": "رایگان | SS | @kingofilter | AE🇦🇪 | 0️⃣5️⃣",
             "type": "shadowsocks",
             "server": "series-a2-mec.varzesh360.co",
             "server_port": 443,
